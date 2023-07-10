@@ -1,0 +1,50 @@
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 300;
+}
+b {
+  font-weight: small;
+  font-size: 12px;
+  color: blueviolet;
+}
+.btn-outline-secondary {
+  color: blueviolet;
+  background-color: white;
+  margin: 5px;
+}
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: blueviolet;
+  text-align: center;
+}
+#city-input {
+  font-weight: heavy;
+  font-size: 15px;
+  color: blueviolet;
+}
+#city {
+  font-weight: 600;
+  font-size: 25px;
+  color: blueviolet;
+}
+h2 {
+  font-weight: heavy;
+  font-size: 18px;
+  color: blueviolet;
+}
+h5 {
+  font-weight: heavy;
+  font-size: 15px;
+  color: blueviolet;
+}
+#temperature-description {
+  padding: 20px 0 20px 0;
+  font-weight: heavy;
+  font-size: 20x;
+  color: blueviolet;
+}
+#weather {
+  font-weight: heavy;
+  font-size: 20x;
+  color: blueviolet;
+}
